@@ -1,10 +1,3 @@
-//
-//  ViewController.swift
-//  MusicTAM
-//
-//  Created by Carlos Pérez on 05/04/2021.
-//
-
 import UIKit
 
 class ViewController: UIViewController {
@@ -13,7 +6,5 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
     }
-
-
 }
 
